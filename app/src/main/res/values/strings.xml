@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Auto</string>
+    <string-array name="items">
+        <item>Cars</item>
+        <item>Details</item>
+        <item>Services</item>
+        <item>About Us</item>
+        <item>Home</item>
+
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello from blank Fragment</string>
+</resources>
